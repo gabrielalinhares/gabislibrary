@@ -15,7 +15,7 @@
  You just need to type on the search bar the name of the book you want to check and the app will show you all the books with that name in. 
  
   ## Screenshots 
-  N/A for now 
+  Coming later
 
   ## Contributors
   Only Me
