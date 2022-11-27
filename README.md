@@ -11,7 +11,7 @@
   
   
   ## Usage
- To check the weather dashboard just go to  hhttps://gabislibrary.herokuapp.com/
+ To check the weather dashboard just go to  https://gabislibrary.herokuapp.com/
  You just need to type on the search bar the name of the book you want to check and the app will show you all the books with that name in. 
  
   ## Screenshots 
